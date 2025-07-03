@@ -8,6 +8,12 @@ console.log(name);
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 // Stampa tutti i valori nella console.
+const number = 3;
+const text = 'Thunder';
+const bool = true;
+console.log(number);
+console.log(text);
+console.log(bool);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
