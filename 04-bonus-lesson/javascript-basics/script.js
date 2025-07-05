@@ -18,7 +18,7 @@ const numYDividedByNumX = numY / numX;
 console.log(numYDividedByNumX); // Output: 2
 
 // 4. Imposta questa variabile come differenza tra numZ e numY
-const numZMinusNumY = NaN;
+const numZMinusNumY = numZ - numY;
 console.log(numZMinusNumY); // Output: 7
 
 // 5. Imposta questa variabile come somma di numX, numY e numZ
