@@ -26,5 +26,5 @@ const combinedSum = numX + numY + numZ;
 console.log(combinedSum); // Output: 42
 
 // 6. Imposta questa variabile come somma di numX, numY, numZ diviso numX
-const numAverage = NaN;
+const numAverage = (numX + numY + numZ) / numX;
 console.log(numAverage); // Output: 6
