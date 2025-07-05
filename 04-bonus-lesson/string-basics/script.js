@@ -37,29 +37,29 @@ const regionName = 'Region'; // NON MODIFICARE QUESTA RIGA
 const fruitBasket = 'mele, pere, ananas, arance'; // NON MODIFICARE QUESTA RIGA
 const welcome = 'welcome'; // NON MODIFICARE QUESTA RIGA
 
-// 1. Cerca un carattere in una stringa
+// 5. Cerca un carattere in una stringa
 // Stampa l'INDICE con cui viene trovato
 // il carattere 'o' nella variabile region
-const regionIndex = 0;
+const regionIndex = region.indexOf('o');
 console.log(regionIndex); // Output: 1
 
-// 2. Sottostringhe 
+// 6. Sottostringhe 
 // Stampa la sottostringa "yo" dalla variabile region
 const regionSubstring = '';
 console.log(regionSubstring); // Output: "yo"
 
-// 3. Sostituzione
+// 7. Sostituzione
 // Sostituisci 'Tokyo' con 'Osaka'
 const regionReplaced = '';
 console.log(regionReplaced); // Output: "Osaka"
 
-// 4. Template literal
+// 8. Template literal
 // Concatena due stringhe usando la sintassi `${var}`
 // e rendi regionNameConcat uguale a 'Tokyo Region'
 const regionNameConcat = '';
 console.log(regionNameConcat); // Output: "Tokyo Region"
 
-// 5. Tutto in maiscolo
+// 9. Tutto in maiscolo
 // Trasforma tutto in maiuscolo la stringa della variabile welcome
 const upperCaseWelcome = '';
 console.log(upperCaseWelcome); // Output: "WELCOME"
