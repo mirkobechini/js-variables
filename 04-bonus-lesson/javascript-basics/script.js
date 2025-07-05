@@ -10,7 +10,7 @@ const numXPlusNumY = numX + numY;
 console.log(numXPlusNumY); // Output: 21
 
 // 2. Imposta questa variabile come prodotto di numZ e numX
-const numZTimesNumX = NaN;
+const numZTimesNumX = numZ * numX;
 console.log(numZTimesNumX); // Output: 147
 
 // 3. Imposta questa variabile come divisione di numY per numX
