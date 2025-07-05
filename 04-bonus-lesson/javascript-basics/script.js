@@ -6,7 +6,7 @@ const numZ = 21; // NON MODIFICARE QUESTA RIGA
 // gli operatori numerici di Javascript
 
 // 1. Imposta questa variabile come somma di numX e numY
-const numXPlusNumY = NaN;
+const numXPlusNumY = numX + numY;
 console.log(numXPlusNumY); // Output: 21
 
 // 2. Imposta questa variabile come prodotto di numZ e numX
