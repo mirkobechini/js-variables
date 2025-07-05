@@ -2,6 +2,9 @@
 // Crea una variabile chiamata nickname e assegnale un soprannome.
 // Stampa il valore di nickname nella console.
 
+const nickname = 'Fact';
+console.log(nickname);
+
 // 2. Tipi primitivi
 // Crea tre variabili chiamate luckyNumber, phrase e isCodingFun
 // e assegna rispettivamente un numero, una stringa e un valore booleano.
