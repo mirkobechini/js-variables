@@ -56,7 +56,7 @@ console.log(regionReplaced); // Output: "Osaka"
 // 8. Template literal
 // Concatena due stringhe usando la sintassi `${var}`
 // e rendi regionNameConcat uguale a 'Tokyo Region'
-const regionNameConcat = '';
+const regionNameConcat = `${region + ' ' + regionName}`;
 console.log(regionNameConcat); // Output: "Tokyo Region"
 
 // 9. Tutto in maiscolo
