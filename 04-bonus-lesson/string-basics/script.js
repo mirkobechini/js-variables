@@ -40,7 +40,7 @@ const welcome = 'welcome'; // NON MODIFICARE QUESTA RIGA
 // 5. Cerca un carattere in una stringa
 // Stampa l'INDICE con cui viene trovato
 // il carattere 'o' nella variabile region
-const regionIndex = region.indexOf('o');
+const regionIndex = region.toLowerCase().indexOf('o');
 console.log(regionIndex); // Output: 1
 
 // 6. Sottostringhe 
