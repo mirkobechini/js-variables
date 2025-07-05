@@ -45,7 +45,7 @@ console.log(regionIndex); // Output: 1
 
 // 6. Sottostringhe 
 // Stampa la sottostringa "yo" dalla variabile region
-const regionSubstring = '';
+const regionSubstring = region.substring(3);
 console.log(regionSubstring); // Output: "yo"
 
 // 7. Sostituzione
