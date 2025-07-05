@@ -29,8 +29,9 @@ console.log(completeName); // Output: "Alex Thunder"
 
 // 4. Imposta questa variabile utilizzando una proprietà
 // sulla variabile characters per ottenere la sua lunghezza
-const alphabetSize = null;
+const alphabetSize = characters.length;
 console.log(alphabetSize); // Output: 26
+
 const region = 'Tokyo'; // NON MODIFICARE QUESTA RIGA
 const regionName = 'Region'; // NON MODIFICARE QUESTA RIGA
 const fruitBasket = 'mele, pere, ananas, arance'; // NON MODIFICARE QUESTA RIGA
