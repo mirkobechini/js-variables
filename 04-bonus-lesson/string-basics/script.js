@@ -13,6 +13,9 @@ console.log(nickname);
 const luckyNumber = 23;
 const phrase = 'Frase incredibile';
 const isCodingFun = true;
+console.log(luckyNumber);
+console.log(phrase);
+console.log(isCodingFun);
 
 // 3. Sostituisci null nelle righe sottostanti utilizzando operazioni con le stringhe
 // e le variabili sopra in modo da stampare correttamente 
@@ -21,7 +24,7 @@ const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'; // NON MODIFICARE QUESTA RIGA
 const userName = 'Alex'; // NON MODIFICARE QUESTA RIGA
 const userNickname = 'Thunder'; // NON MODIFICARE QUESTA RIGA
 
-const completeName = null;
+const completeName = userName + userNickname;
 console.log(completeName); // Output: "Alex Thunder"
 
 // 4. Imposta questa variabile utilizzando una proprietà
