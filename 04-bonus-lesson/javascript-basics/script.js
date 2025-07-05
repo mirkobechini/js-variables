@@ -22,7 +22,7 @@ const numZMinusNumY = numZ - numY;
 console.log(numZMinusNumY); // Output: 7
 
 // 5. Imposta questa variabile come somma di numX, numY e numZ
-const combinedSum = NaN;
+const combinedSum = numX + numY + numZ;
 console.log(combinedSum); // Output: 42
 
 // 6. Imposta questa variabile come somma di numX, numY, numZ diviso numX
