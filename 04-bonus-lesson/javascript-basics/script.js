@@ -14,7 +14,7 @@ const numZTimesNumX = numZ * numX;
 console.log(numZTimesNumX); // Output: 147
 
 // 3. Imposta questa variabile come divisione di numY per numX
-const numYDividedByNumX = NaN;
+const numYDividedByNumX = numY / numX;
 console.log(numYDividedByNumX); // Output: 2
 
 // 4. Imposta questa variabile come differenza tra numZ e numY
