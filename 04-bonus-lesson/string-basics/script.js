@@ -50,7 +50,7 @@ console.log(regionSubstring); // Output: "yo"
 
 // 7. Sostituzione
 // Sostituisci 'Tokyo' con 'Osaka'
-const regionReplaced = '';
+const regionReplaced = region.replaceAll('Tokyo','Osaka');
 console.log(regionReplaced); // Output: "Osaka"
 
 // 8. Template literal
