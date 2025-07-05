@@ -61,5 +61,5 @@ console.log(regionNameConcat); // Output: "Tokyo Region"
 
 // 9. Tutto in maiscolo
 // Trasforma tutto in maiuscolo la stringa della variabile welcome
-const upperCaseWelcome = '';
+const upperCaseWelcome = welcome.toUpperCase();
 console.log(upperCaseWelcome); // Output: "WELCOME"
